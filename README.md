@@ -1,3 +1,4 @@
+![Blue and White Abstract Technology LinkedIn Banner (2)](https://github.com/Amashwinx/Amashwinx/assets/113287402/22e500fc-f7ef-4c5d-970c-a3696f5864c6)
 <h1 align="center">Hi 👋, I'm Amasha Hewagama</h1>
 <h3 align="center">A passionate Data Scientist from Sri Lanka</h3>
 

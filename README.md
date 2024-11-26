@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Analytics project**
 
-- 🌱 I’m currently learning ** Python,Spark,Pytorch, Flask, React, Power BI**
+- 🌱 I’m currently learning **Python,Spark,Pytorch, Flask, React, Power BI**
 
 - 💬 Ask me about **C,C++,Java,ML Basics, Data Science**
 

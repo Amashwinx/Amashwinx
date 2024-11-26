@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amashwinx&label=Profile%20views&color=0e75b6&style=flat" alt="amashwinx" /> </p>
 
-- 🔭 I’m currently working on **mobile app development project**
+- 🔭 I’m currently working on **Data Analytics project**
 
-- 🌱 I’m currently learning **MERN Stack,Kotline**
+- 🌱 I’m currently learning ** Python,Spark,Pytorch, Flask, React, Power BI**
 
-- 💬 Ask me about **C,C++,Java**
+- 💬 Ask me about **C,C++,Java,ML Basics, Data Science**
 
 - 📫 How to reach me **amashahewagama@gmail.com**
 
